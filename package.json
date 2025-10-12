@@ -1,0 +1,16 @@
+{
+  "name": "desorrollo-entorno-cliente",
+  "version": "1.0.0",
+  "description": "presentacion",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiaxin",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "eslint": "^9.36.0",
+    "globals": "^16.4.0"
+  }
+}
