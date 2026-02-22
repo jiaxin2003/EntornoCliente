@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Gestor de Tareas Web",
+      "description": "Aplicación web para gestionar tareas diarias con interfaz intuitiva, almacenamiento persistente y filtrado avanzado.",
+      "image": "/images/proyecto1.jpg",
+      "tags": ["React", "JavaScript", "CSS"],
+      "github": "https://github.com",
+      "demo": "#",
+      "details": "Desarrollo de una aplicación de gestión de tareas usando React y localStorage para persistencia de datos."
+    },
+    {
+      "id": 2,
+      "title": "Tienda Online E-commerce",
+      "description": "Plataforma de comercio electrónico con carrito de compras, sistema de búsqueda y filtrado por categorías.",
+      "image": "/images/proyecto2.jpg",
+      "tags": ["React", "Node.js", "MongoDB"],
+      "github": "https://github.com",
+      "demo": "#",
+      "details": "Backend con Node.js y Express, frontend con React, base de datos MongoDB."
+    },
+    {
+      "id": 3,
+      "title": "Red Social",
+      "description": "Red social con sistema de publicaciones, comentarios, likes y perfil de usuario.",
+      "image": "/images/proyecto3.jpg",
+      "tags": ["JavaScript", "HTML", "CSS"],
+      "github": "https://github.com",
+      "demo": "#",
+      "details": "Proyecto desarrollado con tecnologías web modernas durante el grado superior."
+    },
+    {
+      "id": 4,
+      "title": "Sistema de Gestión de Inventario",
+      "description": "Aplicación para gestionar inventario de productos con reportes y análisis.",
+      "image": "/images/proyecto4.jpg",
+      "tags": ["Python", "SQL", "Django"],
+      "github": "https://github.com",
+      "demo": "#",
+      "details": "Sistema backend para gestión eficiente de inventarios con base de datos relacional."
+    }
+  ]
+}
